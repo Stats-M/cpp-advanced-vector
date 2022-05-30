@@ -1,12 +1,12 @@
-### pp-advanced-vector
-# My advanced Vector&lt;T> Template class
+### cpp-advanced-vector
+# My advanced Vector&lt;T> template class
 ### Спринт 13: собственная реализация улучшенного шаблонного класса Vector&lt;T>
 
 ### Использованные идеомы, технологии и элементы языка
 - Placement new / delete
 - Templates
-- Optional&lt;T> class
 - Variadic Templates
+- Perfect forwarding
 
 ### Инструкция по использованию:
 Подключите заголовочный файл vector.h к вашему проекту.
